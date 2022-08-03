@@ -1,5 +1,5 @@
 - 👋 Hi there
-I'm a Software Engineering student, developer in training and passionate about technology, seeking to solve problems and challenges through programming.
+I'm a Software Engineering student, software engineer in training and passionate about technology, seeking to solve problems and challenges through programming.
 
 - 🌱 I'm currently learning Python and JavaScript and I plan to learn Golang soon
 
